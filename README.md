@@ -1,5 +1,4 @@
-### Hi there 👋, Nihar Patel
-#### Run! Not because someone is chasing you, but because you love running!
+### Hi there 👋,
 ![Run! Not because someone is chasing you, but because you love running!](https://www.nextplatform.com/wp-content/uploads/2023/03/celerdata-logo-1017x438.jpg)
 
  I'm from New Jersey, USA and am a recent grad who is keen on in breaking into data science. I'm interested in the understanding the markets, analyzing disease factors, predicting sports and world outcomes, and much more. In my free time, I like to visit cool nature landscape, listen to different types of music, watch superhero movies and stay active! 
