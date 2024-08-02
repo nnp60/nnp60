@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Nihar!
-
 ### Hi there 👋, Nihar Patel
 #### Run! Not because someone is chasing you, but because you love running!
 ![Run! Not because someone is chasing you, but because you love running!](https://www.nextplatform.com/wp-content/uploads/2023/03/celerdata-logo-1017x438.jpg)
